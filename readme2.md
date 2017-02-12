@@ -1,0 +1,1 @@
+The repository is a fork of the files needed for the Udacity Machine Learning Nanodegree. The projects folder contains the several sub-folders which contain IPython notebooks of the completed projects. To date, titantic_suvival_exploration, smartcab, finding_donors, customer_segments, and boston_housing projects have been completed.
